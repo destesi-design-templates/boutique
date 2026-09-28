@@ -1,0 +1,13 @@
+{
+  "id": "boutique",
+  "name": "Boutique",
+  "description": "A two-row fashion header, a full-height split cover, the newest arrivals in a row and the whole collection in a sharp four-column grid.",
+  "best_for": "Clothing, shoes and accessories",
+  "backend": "commerce",
+  "es": {
+    "name": "Boutique",
+    "description": "Cabecera de moda en dos filas, una portada dividida a toda altura, lo más nuevo en fila y toda la colección en una cuadrícula nítida de cuatro columnas.",
+    "best_for": "Ropa, calzado y accesorios"
+  },
+  "hero_compact": false
+}
